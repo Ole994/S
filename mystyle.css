@@ -35,6 +35,7 @@
 h1 {
   color: rgb(247, 83, 7);
   font-size: 72px;
+  text-align: center;
 }
 
 /* .header-text {
@@ -117,7 +118,7 @@ li {
   .nav-links {
     position: absolute;
     top: 0;
-    height: 130vh;
+    height: 20vh;
     width: 100%;
     flex-direction: column;
     justify-content: center;
@@ -132,7 +133,7 @@ li {
     clip-path: circle(990px at 100% -20%);
     -webkit-clip-path: circle(990px at 90%);
     pointer-events: all;
-    background-color: rgba(0, 0, 0, 0.993);
+    background-color: rgba(0, 0, 0, 0.199);
   }
 
   .nav-links li {
